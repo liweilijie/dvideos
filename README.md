@@ -2,5 +2,5 @@
 
 download all website url videos.
 
-- video format support xvideos,pornhub,youtube,bilibili
+- video format support youtube,bilibili
 - download status use **sqlite** record.
